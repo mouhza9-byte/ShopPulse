@@ -1,0 +1,7 @@
+{
+  "name": "ShopPulse",
+  "description": "ShopPulse E-Commerce Solutions - المنصة المتقدمة لدراسة وتحليل المنتجات الرابحة وإعلانات Meta Ads و Facebook Ads بالذكاء الاصطناعي وحساب نسب التفاعل الدقيقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
